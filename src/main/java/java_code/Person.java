@@ -4,4 +4,6 @@ public class Person {
     private int age;
     private String firstName;
     String lastName;
+    priavte String address;
+    
 }
